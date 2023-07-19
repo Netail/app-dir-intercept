@@ -1,6 +1,6 @@
 # Intercept routes issue
 
-1. Open `localhost:3000` or `localhost:3000/nl``
+1. Open `localhost:3000` or `localhost:3000/nl`
 2. Open "program" (en) / "programma" (nl)
 
 ## Trigger issue
